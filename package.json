@@ -1,0 +1,31 @@
+{
+  "name": "minuxchat",
+  "version": "1.0.0",
+  "description": "A fork/copy/whatever of hack.chat, this makes so users can own rooms, appoint mods/admins, and change many settings of their rooms.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewBelt/hack.chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": {
+    "name": "MinusGix",
+    "url": "https://github.com/AndrewBelt"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AndrewBelt/hack.chat/issues"
+  },
+  "dependencies": {
+    "ws": "^0.7.2"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}

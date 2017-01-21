@@ -1,0 +1,8 @@
+
+===Server Launching===
+Loaded config 'JSON/config.json'
+Loaded rooms 'JSON/rooms.json'
+Started server on 0.0.0.0:6060
+Wrote rooms 'JSON/rooms.json'
+Wrote rooms 'JSON/rooms.json'
+Wrote rooms 'JSON/rooms.json'

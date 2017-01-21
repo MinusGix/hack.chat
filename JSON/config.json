@@ -1,0 +1,75 @@
+{
+  "admins": [
+    ["Admin Username", "Admin Trip (Login without setting up admin first to find out the trip)"]
+  ],
+  "mods": [
+    "Mod Trips In This Array"
+  ],
+  "host": "0.0.0.0",
+  "port": "6060",
+  "x_forwarded_for": false,
+  "commandPrefix": "/",
+  "kickRoom": "YouHaveBeenKicked",
+  "defaultSettings": {
+    "adminscanbroadcast": true,
+    "modscanbroadcast": false,
+    "defaultscanbroadcast": false,
+
+    "adminscanban": true,
+    "modscanban": true,
+    "defaultscanban": false,
+
+    "adminscankick": true,
+    "modscankick": true,
+    "defaultscankick": false,
+
+    "adminscanaddmods": true,
+    "modscanaddmods": false,
+    "defaultscanaddmods": false,
+
+    "adminscanaddadmins": false,
+    "modscanaddadmins": false,
+    "defaultscanaddadmins": false,
+
+    "adminscanremoveadmins": false,
+    "modscanremoveadmins": false,
+    "defaultscanremoveadmins": false,
+
+    "adminscanremovemods": true,
+    "modscanremovemods": false,
+    "defaultscanremovemods": false,
+
+    "adminscanchat": true,
+    "modscanchat": true,
+    "defaultscanchat": true,
+
+    "adminscanusecmdme": true,
+    "modscanusecmdme": true,
+    "defaultscanusecmdme": true,
+
+    "adminscancmdhelp": true,
+    "modscancmdhelp": true,
+    "defaultscancmdhelp": true,
+
+    "adminscanusecmdpromote": false,
+    "modscanusecmdpromote": false,
+    "defaultscanusecmdpromote": false,
+
+    "adminscanusecmddemote": false,
+    "modscanusecmddemote": false,
+    "defaultscanusecmddemote": false,
+
+    "adminscancmdwhisper": true,
+    "modscancmdwhisper": true,
+    "defaultscancmdwhisper": true,
+
+    "adminscanmute": true,
+    "modscanmute": true,
+    "defaultscanmute": false,
+
+    "adminscanunmute": true,
+    "modscanunmute": true,
+    "defaultscanunmute": false
+  },
+  "salt": "insert-randomly-generated-string-here"
+}
